@@ -12,4 +12,4 @@ def Shalou(number,e):
         print(h.center(2*line, ' '))
 
 
-Shalou(19,'x')
+Shalou(1,'x')
